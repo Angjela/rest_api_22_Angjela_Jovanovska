@@ -5,14 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ec2e1d-2938-4fdf-9c13-eaec0a216a66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/ClickUpFeatures.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/clients/ClickUpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/constants/ProjectConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/domain/Folder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/domain/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/domain/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/helpers/TestCaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/stepdefinitions/ClickUpSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/clickUpApi/testRunner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/clickUpApi/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ClickUpFeatures.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ClickUpFeatures.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +49,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TrelloTest" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
